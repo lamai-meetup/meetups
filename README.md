@@ -19,9 +19,11 @@ This repository is used to archive meetups data and resources.
 ## Organisers
 | | | |
 |:---:|:---:|:---:|
-| **Sertan Sentürk** Lead Data Scientist, Kobalt Music Group | **Elio Quinton** Music & Audio Machine Learning Lab, Universal Music Group | **Ken O'Hanlon** Audio Researcher, Center for Digital Music|
+| **Sertan Sentürk** | **Elio Quinton**  | **Ken O'Hanlon** |
+| Lead Data Scientist, Kobalt Music Group | Music & Audio Machine Learning Lab, Universal Music Group | Audio Researcher, Center for Digital Music|
 
-## Meetups
+
+## Meetups Archive
 <a name="meetups_archive"/>
 
 
