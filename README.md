@@ -27,5 +27,5 @@ This repository is used to archive meetups data and resources.
 
 | #    | Date | Speaker | Talk | Venue | Slides | Video | Event Page | More | 
 |------|------|---------|------|-------|--------|-------|------------|------|
-|1     | 03-12-2020 | Jordi Pons | Upsampling artifacts in neural audio synthesis | Online | [Slides](http://jordipons.me/media/UpsamplingArtifactsNeuralAudioSynthesis.pdf) | Video | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/274592625/) |  | 
+|1     | 03-12-2020 | [Jordi Pons](http://www.jordipons.me) | Upsampling artifacts in neural audio synthesis | Online | [Slides](http://jordipons.me/media/UpsamplingArtifactsNeuralAudioSynthesis.pdf) | Video | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/274592625/) | [Paper](https://arxiv.org/abs/2010.14356) | 
 
