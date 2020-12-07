@@ -31,3 +31,9 @@ This repository is used to archive [meetups data](#meetups_archive) and resource
 |------|------|---------|------|-------|--------|-------|------------|------|
 |1     | 03-12-2020 | [Jordi Pons](http://www.jordipons.me) | Upsampling artifacts in neural audio synthesis | (Virtual) [Kobalt](https://www.kobaltmusic.com) | [Slides](http://jordipons.me/media/UpsamplingArtifactsNeuralAudioSynthesis.pdf) | [Video](https://youtu.be/LF7x-F8lLLA) | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/274592625/) | [Paper](https://arxiv.org/abs/2010.14356) | 
 
+
+
+## Sponsors Archive
+| Date | Sponsor | Logo | 
+|------|---------|------|
+| Aug 2020 - Present | [IEEE Signal Processing Society](https://signalprocessingsociety.org) | ![](./images/sponsor_logos/SPS_Logo_Color_RGB.png) |
