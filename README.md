@@ -8,17 +8,17 @@ Topics of interest cover all facets of advanced technology applied to audio and 
 
 We like to keep it fun, friendly and free, so come and join other like-minded folks.
 
-This repository is used to archive meetups data and resources.
+This repository is used to archive [meetups data](#meetups_archive) and resources.
 
 ## Resources
 
 * Meetup Page: https://www.meetup.com/London-Audio-and-Music-AI-Meetup/
-* Youtube Channel:
-* [Meetups archive](#meetups_archive)
+* Youtube Channel: https://www.youtube.com/channel/UCalAxzk_LwyCLXJsZ6E0Sjg
 
 ## Organisers
 | | | |
 |:---:|:---:|:---:|
+| ![](./images/pics/sertan.jpeg) | ![](./images/pics/elio.jpeg) | ![](./images/pics/ken.jpeg) |
 | **Sertan Sentürk** | **Elio Quinton**  | **Ken O'Hanlon** |
 | Lead Data Scientist, Kobalt Music Group | Music & Audio Machine Learning Lab, Universal Music Group | Audio Researcher, Center for Digital Music|
 
@@ -29,5 +29,5 @@ This repository is used to archive meetups data and resources.
 
 | #    | Date | Speaker | Talk | Host | Slides | Video | Event Page | More | 
 |------|------|---------|------|-------|--------|-------|------------|------|
-|1     | 03-12-2020 | [Jordi Pons](http://www.jordipons.me) | Upsampling artifacts in neural audio synthesis | (Virtual) [Kobalt](https://www.kobaltmusic.com) | [Slides](http://jordipons.me/media/UpsamplingArtifactsNeuralAudioSynthesis.pdf) | Video | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/274592625/) | [Paper](https://arxiv.org/abs/2010.14356) | 
+|1     | 03-12-2020 | [Jordi Pons](http://www.jordipons.me) | Upsampling artifacts in neural audio synthesis | (Virtual) [Kobalt](https://www.kobaltmusic.com) | [Slides](http://jordipons.me/media/UpsamplingArtifactsNeuralAudioSynthesis.pdf) | [Video](https://youtu.be/LF7x-F8lLLA) | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/274592625/) | [Paper](https://arxiv.org/abs/2010.14356) | 
 
