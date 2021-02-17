@@ -30,6 +30,7 @@ This repository is used to archive [meetups data](#meetups_archive) and resource
 | #    | Date | Speaker | Talk | Host | Slides | Video | Event Page | More | 
 |------|------|---------|------|-------|--------|-------|------------|------|
 |1     | 03-12-2020 | [Jordi Pons](http://www.jordipons.me) | Upsampling artifacts in neural audio synthesis | (Virtual) [Kobalt](https://www.kobaltmusic.com) | [Slides](http://jordipons.me/media/UpsamplingArtifactsNeuralAudioSynthesis.pdf) | [Video](https://youtu.be/LF7x-F8lLLA) | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/274592625/) | [Paper](https://arxiv.org/abs/2010.14356) | 
+|2     | 16-02-2021 | [Lucas Maystre](https://lucas.maystre.ch) | UAlgorithmic Effects on the Diversity of Consumption on Spotify | (Virtual) [Kobalt](https://www.kobaltmusic.com) |  |  | [Event Page](https://www.meetup.com/London-Audio-and-Music-AI-Meetup/events/275969652/) | [Paper](http://www.cs.toronto.edu/~ashton/pubs/alg-effects-spotify-www2020.pdf) | 
 
 
 
