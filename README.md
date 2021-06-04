@@ -37,6 +37,6 @@ This repository is used to archive [meetups data](#meetups_archive) and resource
 ## Sponsors Archive
 | Date | Sponsor | Logo | 
 |------|---------|------|
-| Aug 2020 - Feb 2021 | [IEEE Signal Processing Society](https://signalprocessingsociety.org) | ![](./images/sponsor_logos/SPS_Logo_Color_RGB.png) |
+| Aug 2020 - Present | [IEEE Signal Processing Society](https://signalprocessingsociety.org) | ![](./images/sponsor_logos/SPS_Logo_Color_RGB.png) |
 | Feb 2021 - Present | [AI Music](https://www.aimusic.co.uk) | ![](./images/sponsor_logos/AImusic.png)|
 
